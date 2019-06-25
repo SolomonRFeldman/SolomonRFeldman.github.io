@@ -1,11 +1,11 @@
 # Site settings
-author: Solomon Feldman
-title: 
+author: Solomon R Feldman
+title: Test
 header-img: img/home-bg.png
 email: solomonrfeldman@gmail.com
-copyright_name: Solomon Feldman
+copyright_name: Solomon R Feldman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  1 2 3
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SolomonRFeldman
